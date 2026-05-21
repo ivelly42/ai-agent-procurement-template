@@ -1,0 +1,18 @@
+{
+  "name": "AI Agent Procurement Template",
+  "source_product": "Agent Ops Command Center",
+  "description": "Discovery mirror for AI-agent procurement, invoice request, and team purchase approval templates.",
+  "individual_price_usd": 29,
+  "team_license_price_usd": 203,
+  "target_revenue_usd": 200,
+  "procurement_template": "https://ivelly42.github.io/ai-agent-procurement-template/PROCUREMENT_TEMPLATE.md",
+  "invoice_request_packet": "https://ivelly42.github.io/agent-ops-command-center/team-invoice-request.html",
+  "procurement_email_kit": "https://ivelly42.github.io/agent-ops-command-center/team-procurement-email.html",
+  "fast_team_checkout_request": "https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html",
+  "buy_page": "https://ivelly42.github.io/agent-ops-command-center/buy.html",
+  "catalog": "https://ivelly42.github.io/agent-ops-command-center/catalog.json",
+  "metrics": "https://ivelly42.github.io/agent-ops-command-center/metrics/status.json",
+  "main_repository": "https://github.com/ivelly42/agent-ops-command-center",
+  "paid_zip_public": false,
+  "revenue_rule": "Revenue is proven only by checkout, receipt, payout, or seller-dashboard evidence."
+}
