@@ -9,7 +9,7 @@
   "primary_request_url": "https://ivelly42.github.io/agent-ops-command-center/team-request-url.html",
   "invoice_request_packet": "https://ivelly42.github.io/agent-ops-command-center/team-invoice-request.html",
   "procurement_email_kit": "https://ivelly42.github.io/agent-ops-command-center/team-procurement-email.html",
-  "fast_team_checkout_request": "https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html",
+  "fast_team_checkout_request": "https://ivelly42.github.io/agent-ops-command-center/team-request-url.html",
   "checkout_status": "https://ivelly42.github.io/agent-ops-command-center/checkout-status.json",
   "buy_page": "https://ivelly42.github.io/agent-ops-command-center/buy.html",
   "catalog": "https://ivelly42.github.io/agent-ops-command-center/catalog.json",
