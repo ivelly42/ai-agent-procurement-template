@@ -42,6 +42,8 @@ Revenue rule:
 
 ## Review Links
 
+- Primary team request URL: https://ivelly42.github.io/agent-ops-command-center/team-request-url.html
+- Checkout status: https://ivelly42.github.io/agent-ops-command-center/checkout-status.json
 - Invoice request packet: https://ivelly42.github.io/agent-ops-command-center/team-invoice-request.html
 - Procurement email kit: https://ivelly42.github.io/agent-ops-command-center/team-procurement-email.html
 - Team purchase packet: https://ivelly42.github.io/agent-ops-command-center/team-purchase-packet.html

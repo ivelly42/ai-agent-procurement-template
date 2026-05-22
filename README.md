@@ -7,9 +7,11 @@ This repository is a search and routing surface. The paid ZIP is not stored here
 ## Main Links
 
 - Procurement template: https://ivelly42.github.io/ai-agent-procurement-template/PROCUREMENT_TEMPLATE.md
+- Primary $203 team request URL: https://ivelly42.github.io/agent-ops-command-center/team-request-url.html
 - Invoice request packet: https://ivelly42.github.io/agent-ops-command-center/team-invoice-request.html
 - Procurement email kit: https://ivelly42.github.io/agent-ops-command-center/team-procurement-email.html
 - Fast $203 team request: https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html
+- Checkout status: https://ivelly42.github.io/agent-ops-command-center/checkout-status.json
 - Buy page: https://ivelly42.github.io/agent-ops-command-center/buy.html
 - Team purchase packet: https://ivelly42.github.io/agent-ops-command-center/team-purchase-packet.html
 - Catalog JSON: https://ivelly42.github.io/agent-ops-command-center/catalog.json
@@ -51,6 +53,10 @@ Revenue rule: This request is purchase intent only, not proven revenue
 Open the fast team request:
 
 https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html
+
+Open the primary $203 team request URL:
+
+https://ivelly42.github.io/agent-ops-command-center/team-request-url.html
 
 Open the invoice request packet:
 

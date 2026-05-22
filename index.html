@@ -22,7 +22,7 @@
           "price": "203",
           "priceCurrency": "USD",
           "availability": "https://schema.org/PreOrder",
-          "url": "https://github.com/ivelly42/agent-ops-command-center/issues/new"
+          "url": "https://ivelly42.github.io/agent-ops-command-center/team-request-url.html"
         }
       }
     </script>
@@ -263,7 +263,7 @@
       <nav>
         <a href="PROCUREMENT_TEMPLATE.md">Template</a>
         <a href="https://ivelly42.github.io/agent-ops-command-center/team-invoice-request.html">Invoice</a>
-        <a href="https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html">Fast Request</a>
+        <a href="https://ivelly42.github.io/agent-ops-command-center/team-request-url.html">Fast Request</a>
       </nav>
     </header>
 
@@ -274,7 +274,7 @@
           <h1>AI agent procurement template for invoice-ready teams.</h1>
           <p class="lead">A public discovery mirror for teams that need approval, checkout, receipt, delivery, and payment-proof language before buying AI coding-agent operations templates.</p>
           <div class="actions">
-            <a class="button primary" id="directRequest" href="https://github.com/ivelly42/agent-ops-command-center/issues/new">Open $203 procurement request</a>
+            <a class="button primary" id="directRequest" href="https://ivelly42.github.io/agent-ops-command-center/team-request-url.html">Open $203 procurement request</a>
             <a class="button" href="https://ivelly42.github.io/agent-ops-command-center/team-invoice-request.html">Invoice packet</a>
             <a class="button" href="PROCUREMENT_TEMPLATE.md">Copy template</a>
           </div>
@@ -313,7 +313,7 @@
         <h2>Prefilled Request</h2>
         <textarea id="requestBody" readonly></textarea>
         <div class="actions">
-          <a class="button primary" id="directRequestBottom" href="https://github.com/ivelly42/agent-ops-command-center/issues/new">Open $203 procurement request</a>
+          <a class="button primary" id="directRequestBottom" href="https://ivelly42.github.io/agent-ops-command-center/team-request-url.html">Open $203 procurement request</a>
           <a class="button" href="https://ivelly42.github.io/agent-ops-command-center/revenue-proof.html">Revenue rule</a>
         </div>
       </section>
@@ -342,6 +342,8 @@
         "",
         "Review links:",
         "- Procurement mirror: https://ivelly42.github.io/ai-agent-procurement-template/",
+        "- Primary team request URL: https://ivelly42.github.io/agent-ops-command-center/team-request-url.html",
+        "- Checkout status: https://ivelly42.github.io/agent-ops-command-center/checkout-status.json",
         "- Invoice request packet: https://ivelly42.github.io/agent-ops-command-center/team-invoice-request.html",
         "- Procurement email kit: https://ivelly42.github.io/agent-ops-command-center/team-procurement-email.html",
         "- Buy page: https://ivelly42.github.io/agent-ops-command-center/buy.html",
@@ -352,15 +354,7 @@
         "- I understand the private paid ZIP should be delivered only after checkout, receipt, payout, or seller-dashboard proof exists.",
         "- I understand gross revenue is counted only when payment proof exists."
       ].join("\\n");
-
-      const title = "Invoice request packet: Agent Ops Command Center team license";
-      const url = new URL("https://github.com/ivelly42/agent-ops-command-center/issues/new");
-      url.searchParams.set("title", title);
-      url.searchParams.set("body", body);
-
       document.getElementById("requestBody").value = body;
-      document.getElementById("directRequest").href = url.toString();
-      document.getElementById("directRequestBottom").href = url.toString();
     </script>
   </body>
 </html>
